@@ -8,6 +8,9 @@
 - Music, movies, and engaging podcasts, especially Jadi’s podcasts  
 - Love keyboard freedom and a strong advocate for software freedom  
 - A huge fan of Linux  
+- A deep love for mathematics  
+- Cycling, the sound of my keyboard, and cooking  
+- I love my friends  
 
 ### 🌱 Currently Learning
 - Anything that comes my way!  
@@ -19,10 +22,13 @@
 - If you have an idea that needs a creative mind, I’m in!  
 
 ### 📫 How to reach me
-- Coming soon...  
+- itarrshia@gmail.com  
+- a.mmdi2007m@gmail.com  
 
 ### ⚡ Fun fact
 - Sometimes I joke around with tough challenges, and in the end, I solve them! 😎  
+- I love cycling, the sound of my keyboard, and cooking.  
+- I love my friends!  
 
 ### 🔗 Favorite Resources  
 - [Jadi's GitHub](https://github.com/jadijadi)  
