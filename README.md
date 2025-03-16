@@ -24,6 +24,7 @@
 ### 📫 How to reach me
 - itarrshia@gmail.com  
 - a.mmdi2007m@gmail.com  
+- Telegram: [itashia2007](https://t.me/itashia2007)  
 
 ### ⚡ Fun fact
 - Sometimes I joke around with tough challenges, and in the end, I solve them! 😎  
