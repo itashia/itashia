@@ -2,7 +2,7 @@
 
 
 <a href="https://www.coffeebede.com/itashia">
-  <img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="180" height="100" />
+  <img src="https://github.com/itashia/itashia/blob/main/image%20(1).png?raw=true" width="150" height="90" />
 </a>
 
 
