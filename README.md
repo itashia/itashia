@@ -1,42 +1,64 @@
-# 👋 Hi, I’m @itashia (Arshia Mohammadei)
-
+# 🌟 **Arshia Mohammadei (@itashia)** 🌟
 
 <a href="https://www.coffeebede.com/itashia">
-  <img src="https://github.com/itashia/itashia/blob/main/image%20(1).png?raw=true" width="150" height="90" />
+  <img src="https://github.com/itashia/itashia/blob/main/image%20(1).png?raw=true" width="200" height="120" alt="Buy Me a Coffee" />
 </a>
 
+---
 
-### 👀 Interests
-- Passionate about learning new things, especially fun and exciting ones  
-- Solving algorithmic challenges and complex problems  
-- Exploring hacking challenges to sharpen my skills  
-- Idea generation and creative programming  
-- Music, movies, and engaging podcasts, especially Jadi’s podcasts  
-- Love keyboard freedom and a strong advocate for software freedom  
-- A huge fan of Linux  
-- A deep love for mathematics  
-- Cycling, the sound of my keyboard, and cooking  
-- I love my friends  
-
-### 🌱 Currently Learning
-- Anything that comes my way!  
-- Improving hacking and security skills  
-- Diving deeper into algorithms and code optimization  
-
-### 💞️ Collaboration
-- Interested in working on challenging and innovative projects  
-- If you have an idea that needs a creative mind, I’m in!  
-
-### 📫 How to reach me
-- a.mmdi2007m@gmail.com  
-
-### ⚡ Fun fact
-- Sometimes I joke around with tough challenges, and in the end, I solve them! 😎  
-- I love cycling, the sound of my keyboard, and cooking.  
-- I love my friends!  
-
-### 🔗 Favorite Resources  
-- [Jadi's GitHub](https://github.com/jadijadi)  
+## **🔥 About Me**  
+**A passionate programmer, problem solver, and open-source enthusiast who loves turning complex challenges into elegant solutions.**  
+🚀 *"If it doesn’t challenge you, it won’t change you."*  
 
 ---
-🚀 Always learning and evolving!  
+
+## **✨ Interests & Passions**  
+- **Coding & Algorithms** – Solving problems like a puzzle master 🧩  
+- **Hacking & Security** – Breaking things to make them stronger 🔐  
+- **Linux & Open Source** – Because freedom matters 🐧  
+- **Mathematics** – The poetry of logical ideas ∞  
+- **Creative Projects** – Ideas that spark innovation 💡  
+- **Music & Podcasts** – Jadi’s voice is my coding soundtrack 🎧  
+- **Keyboard Symphony** – The sound of productivity ⌨️  
+- **Cycling & Cooking** – Pedaling and frying with passion 🚴‍♂️🍳  
+- **Friends & Fun** – Life’s best debuggers ❤️  
+
+---
+
+## **🌱 Currently Learning**  
+- **Advanced Security & Ethical Hacking** 🕵️‍♂️  
+- **Optimizing Algorithms for Speed** ⚡  
+- **Everything that excites me!** 🤯  
+
+---
+
+## **💡 Collaboration & Projects**  
+Looking for **bold, creative, and challenging** projects!  
+- **Got an idea?** Let’s build it together!  
+- **Need a problem solver?** I’m your guy!  
+- **Want to discuss tech?** Hit me up!  
+
+---
+
+## **📬 Reach Me**  
+📧 **Email:** [a.mmdi2007m@gmail.com](mailto:a.mmdi2007m@gmail.com)  
+🐦 **Twitter:** [@itashia](https://twitter.com/itashia) *(if I had one!)*  
+
+---
+
+## **🎉 Fun Facts**  
+- **I joke with bugs… then fix them.** 😎  
+- **I type faster than I think.** (Sometimes.)  
+- **Cooking code & coding food.** 👨‍🍳💻  
+
+---
+
+## **🔗 Favorite Links**  
+- **[Jadi’s GitHub](https://github.com/jadijadi)** – Because Jadi is legendary.  
+- **[Linux.org](https://linux.org)** – The holy grail.  
+
+---
+
+### **🚀 Final Words**  
+**"Stay hungry, stay foolish."** – *Steve Jobs*  
+**"But also, stay curious and keep coding!"** – *Me*  
