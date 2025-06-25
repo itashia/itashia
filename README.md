@@ -11,7 +11,6 @@
   </a>
 </p>
 
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
@@ -78,3 +77,7 @@
 
 > **"Stay hungry, stay foolish."** – *Steve Jobs*  
 > **"But also, stay curious and keep coding!"** – *Me*
+
+
+
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
