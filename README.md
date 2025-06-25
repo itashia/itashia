@@ -5,6 +5,11 @@
     <img src="https://github.com/itashia/itashia/blob/main/image%20(1).png?raw=true" width="200" height="120" alt="Buy Me a Coffee" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,rust,python,js,java,laravel,tailwind,mysql,redis,sqlite,ubuntu,linux,cpp,git,kubernetes,docker,c,vim,nuxtjs,vuejs,perl,pinia,raspberrypi,ruby,sequelize,sentry,solidjs,ts,mint,mongodb,kali,go,github,dart,flutter,bash,arch,anaconda,django,electron,jquery,postgres,postman,stackoverflow,symfony" />
+  </a>
+</p>
 
 ---
 
