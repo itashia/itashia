@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,rust,python,js,java,laravel,tailwind,mysql,redis,alpinejs,apollo,discordjs,firebase,gitlab,reactivex,sentry,webflow,yew,yarn,sqlite,ubuntu,linux,cpp,git,kubernetes,docker,c,vim,nuxtjs,vuejs,perl,pinia,raspberrypi,ruby,sequelize,sentry,solidjs,ts,mint,mongodb,kali,go,vuetify,vscodium,vite,terraform,solidjs,github,dart,flutter,bash,arch,anaconda,django,electron,jquery,postgres,postman,stackoverflow,symfony" />
+  <img src="https://skillicons.dev/icons?i=php,rust,python,js,laravel,tailwind,mysql,redis,alpinejs,discordjs,firebase,gitlab,sentry,webflow,ubuntu,linux,cpp,git,kubernetes,docker,c,nuxtjs,pinia,ruby,sequelize,sentry,solidjs,ts,mongodb,vite,terraform,github,dart,flutter,bash,django,jquery,postgres,postman,symfony" />
 </p>
 
 <p align="center" style="font-family: 'Roboto', sans-serif; font-size: 1.3em; color: #2F4F4F; margin: 15px 0;">
@@ -59,7 +59,7 @@
 
 ## 📬 Get in Touch
 <p align="center" style="margin: 20px 0;">
-  <a href="mailto:a.mmdi2007m@gmail.com">
+  <a href="mailto:itarrshia@gmail.com">
     <img src="https://img.shields.io/badge/Email-a.mmdi2007m@gmail.com-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0 10px;"/>
   </a>
   <a href="https://twitter.com/itashia">
