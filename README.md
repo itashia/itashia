@@ -87,8 +87,6 @@
 > *“Stay curious, code relentlessly, and dream big.”*  
 > *– Arshia Mohammadei*
 
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
-
 ---
 
 <p align="center" style="font-family: 'Roboto', sans-serif; font-size: 1.2em; color: #4682B4;">
