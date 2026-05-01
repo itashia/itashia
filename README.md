@@ -20,6 +20,12 @@
 
 ---
 
+## 🎓 Education
+**Mechanical Engineering Student** at **University of Hamadan**  
+🧮 Passionate about **Mathematics** – Finding beauty in logical patterns and numbers  
+
+---
+
 ## 🌌 Who Am I?
 🧙‍♂️ **Code Wizard** – Transforming ideas into seamless solutions  
 🔐 **Security Maestro** – Fortifying systems with ethical hacking  
