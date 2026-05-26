@@ -66,7 +66,7 @@
 ## 📬 Get in Touch
 <p align="center" style="margin: 20px 0;">
   <a href="mailto:itarrshia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-a.mmdi2007m@gmail.com-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Email-itarrshia@gmail.com-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0 10px;"/>
   </a>
   <a href="https://twitter.com/itashia">
     <img src="https://img.shields.io/badge/Twitter-@itashia-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 0 10px;"/>
