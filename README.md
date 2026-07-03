@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,rust,python,laravel,tailwind,mysql,cpp,git,kubernetes,docker,c,ts,mongodb,django,postgres" />
+  <img src="https://skillicons.dev/icons?i=php,rust,python,react,nodejs,tauri,laravel,tailwind,mysql,cpp,git,kubernetes,docker,c,ts,mongodb,django,postgres" />
 </p>
 
 <p align="center" style="font-family: 'Roboto', sans-serif; font-size: 1.3em; color: #2F4F4F; margin: 15px 0;">
